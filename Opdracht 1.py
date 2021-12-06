@@ -9,3 +9,4 @@ KostenDiesel = float(DieselPrijs) * DieselVerbruik
 TotaalKostenHeen = KostenDiesel + TotaalBroodKoffie
 TotaalHeenTerug = TotaalKostenHeen * 2
 print (TotaalHeenTerug)
+# Totale Kosten 131.91
