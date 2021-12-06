@@ -24,3 +24,4 @@ TotaalPrijsVuurSteen = AantalVuurStenen * PrijsVuurSteen
 TotaalPrijsSisalTouw = PrijsSisalTouw2Meter * 10
 TotaalPrijsAlles = TotaalPrijsPemmicanRepen + TotaalPrijsVijgenPlak + TotaalPrijsScheepsBiscuits + TotaalPrijsFireSteel + TotaalPrijsPakjeLucifers + TotaalPrijsVuurSteen + TotaalPrijsSisalTouw
 print (TotaalPrijsAlles)
+# totaal 63.31
